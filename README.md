@@ -4,6 +4,6 @@ Solves Sudoku puzzles. Currently uses a very simple algorithm, can only solve "e
 
 ## Usage:
 
-python sudokusolver.py <inputfile>
+python sudokusolver.py inputfile
 
 Input file must be a text file like the example found in puzzle1.txt.
