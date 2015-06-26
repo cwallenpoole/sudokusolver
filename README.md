@@ -2,7 +2,7 @@
 
 Solves Sudoku puzzles. Currently uses a very simple algorithm, can only solve "easy" puzzles.
 
-# Usage:
+## Usage:
 
 python sudokusolver.py <inputfile>
 
